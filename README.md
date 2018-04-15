@@ -16,3 +16,7 @@ The course advisor will then recommend and describe a course that matches the st
 # Usage
 
 To activate this skill, say "Alexa, launch course advisor."
+
+# Credit
+
+Built using [Alexa Decision Tree Skill](https://github.com/alexa/skill-sample-nodejs-decision-tree/blob/master/instructions/1-voice-user-interface.md).
